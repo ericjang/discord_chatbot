@@ -1,7 +1,4 @@
 """Implements the Half Human Game object
-
-TODOs:
- - log conversations so we can re-train model on them later.
 """
 import collections
 from transformers import pipeline

@@ -1,6 +1,6 @@
 import roleplay_and_a_bot
 import discord
-TOKEN='ODIzMjg0ODk3MTU0MDcyNjM3.YFelzw.LPG980lfBHUr88J2xx_epQMOjFk'
+TOKEN='YOUR_TOKEN_HERE'
 
 get_player_id = roleplay_and_a_bot.get_player_id
 

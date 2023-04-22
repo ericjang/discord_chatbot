@@ -6,7 +6,7 @@ from game import HalfHumanGame, get_player_id
 
 
 import discord
-TOKEN='ODIzMjg0ODk3MTU0MDcyNjM3.YFelzw.LPG980lfBHUr88J2xx_epQMOjFk'
+TOKEN='YOUR_TOKEN_HERE'
 
 GAME_START="""
 
